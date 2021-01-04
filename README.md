@@ -19,7 +19,7 @@ Things to consider in future development:
 Install the module trough composer:
 
 ```
-compser require luyadev/luya-module-estore:dev-master
+composer require luyadev/luya-module-estore:dev-master
 ```
 
 Add the module to the config
